@@ -3,6 +3,7 @@
 ## ⚔️ Technical skills
 - Programming languages: Kotlin / JavaScript / CSS / HTML.
 - Database: SQLite. 
+- UI/UX: Figma
 ###
 
 
