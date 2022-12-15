@@ -2,7 +2,7 @@
 
 ## ⚔️ Technical skills
 - Programming languages: Kotlin / JavaScript / CSS / HTML.
-- Database / Data structure store: SQLite. 
+- Database: SQLite. 
 ###
 
 
