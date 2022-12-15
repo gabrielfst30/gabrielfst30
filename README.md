@@ -1,15 +1,12 @@
-# Gabriel
-
 ### Oi, eu sou Gabriel Santa Ritta! 👋
 
-## :triangular_flag_on_post: Technical skills
-- Programming languages: Kotlin / JavaScript / CSS / HTML ;
-- Database / Data structure store: SQLite ;
+## ⚔️ Technical skills
+- Programming languages: Kotlin / JavaScript / CSS / HTML.
+- Database / Data structure store: SQLite. 
 ###
 
 
       
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gabriel-santa-ritta-772203198/)
 <div align="left">
 <a href="https://github.com/gabrielfst30">
