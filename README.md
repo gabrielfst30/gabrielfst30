@@ -1,10 +1,10 @@
 # Gabriel
 
-### Hi, I'm Iago Joseph ! 👋
+### Oi, eu sou Gabriel Santa Ritta! 👋
 
 ## :triangular_flag_on_post: Technical skills
-- Programming languages: Python / Java / JavaScript / Lua / C ;
-- Database / Data structure store: Mysql, SQL Server;
+- Programming languages: Kotlin / JavaScript / CSS / HTML ;
+- Database / Data structure store: SQLite ;
 ###
 
 
