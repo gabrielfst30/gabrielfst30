@@ -1,7 +1,7 @@
 ### Oi, eu sou Gabriel Santa Ritta! 👋
 
 ## ⚔️ Technical skills
-- Programming languages: Kotlin / JavaScript / CSS / HTML.
+- Programming languages: Kotlin / JavaScript / CSS / HTML / REACT.
 - Database: SQLite. 
 - UI/UX: Figma
 ###
