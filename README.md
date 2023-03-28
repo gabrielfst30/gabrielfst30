@@ -2,7 +2,7 @@
 
 ## ⚔️ Technical skills
 - Programming languages: Kotlin - Next.js - React.js - Node.js - Typescript - SCSS.
-- Database: PostgreSQL. 
+- Database: PostgreSQL - MySQL. 
 - UI/UX: Figma
 ###
 
