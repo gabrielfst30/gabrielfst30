@@ -2,7 +2,7 @@
 
 ## ⚔️ Technical skills
 - Programming languages: Kotlin - Javascript - Typescript - SCSS.
-- Framworks/libraries: Next.js - React.js - React Native - Node.js.
+- Frameworks/libraries: Next.js - React.js - React Native - Node.js.
 - Database: PostgreSQL - MySQL. 
 - UI/UX: Figma
 ###
