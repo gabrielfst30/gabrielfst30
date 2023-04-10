@@ -1,7 +1,8 @@
 ### Oi, eu sou Gabriel Santa Ritta! 👋
 
 ## ⚔️ Technical skills
-- Programming languages: Kotlin - Next.js - React.js - Node.js - Typescript - SCSS.
+- Programming languages: Kotlin - Javascript - Typescript - SCSS.
+- Framworks/libraries: Next.js - React.js - React Native - Node.js.
 - Database: PostgreSQL - MySQL. 
 - UI/UX: Figma
 ###
