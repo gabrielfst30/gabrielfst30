@@ -2,7 +2,7 @@
 
 ## ⚔️ Technical skills
 - Programming languages: Typescript - Javascript - Solidity - Kotlin.
-- Frameworks/libraries: Next.js - React.js - React Native - Node.js - SCSS - Tailwind - Ethers.js - Hardhat.js.
+- Frameworks/libraries: Next.js - React.js - React Native - Node.js - SCSS - Tailwind - Ethers.js - Hardhat.js - Foundry.
 - Database: PostgreSQL - MySQL - PrismaORM.
 - UI/UX: Figma
 ###
