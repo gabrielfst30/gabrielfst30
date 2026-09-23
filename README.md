@@ -26,7 +26,7 @@ Blockchain Backend Engineer & Tech Lead with 5+ years building scalable products
 **AI & Agents**
 - Claude · GPT integrations
 - Agent workflows and automation — Claude Agents · Antigravity · local LLMs
-- Prompt engineering applied to software engineering
+- Graph engineering applied to software engineering
 
 **Technical Leadership**
 - Architecture design · technical documentation · roadmap planning
